@@ -23,11 +23,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sanketnarale&theme=github-dark)
 
 ---
-
-# 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=sanketnarale&color=blue)
-
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
