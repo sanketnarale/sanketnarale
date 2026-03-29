@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=sanketnarale&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
 
@@ -18,9 +18,16 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanketnarale&theme=dark&layout=compact)
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanketnarale&theme=dark&no-frame=true&margin-w=10)
 
+# 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=sanketnarale&theme=github-dark)
+
+---
+
+# 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=sanketnarale&color=blue)
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
